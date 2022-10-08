@@ -1,5 +1,5 @@
 
-**Midterm project for house price predictions**
+**Project for house price predictions**
 
 
 **Objective**: The task is to build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - \$650K and above.
